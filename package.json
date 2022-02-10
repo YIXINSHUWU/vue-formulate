@@ -68,7 +68,7 @@
     "flush-promises": "^1.0.2",
     "jest": "^25.5.4",
     "jest-vue-preprocessor": "^1.7.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "postcss": "^7.0.30",
     "postcss-cli": "^7.1.1",
     "rollup": "^1.32.1",
